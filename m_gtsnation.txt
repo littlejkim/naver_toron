@@ -1,0 +1,9 @@
+USA미국                
+CHN중국                
+HKG홍콩                
+JPN일본                
+VNM베트남              
+IDN인도네시아          
+DEU독일                
+GBR영국                
+AUS호주                

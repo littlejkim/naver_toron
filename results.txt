@@ -1,0 +1,14 @@
+베트남: 100% (743/743)
+failed: none
+
+일본: 99.46% (4036/4058)
+failed: ['1375.T', '2000.T', '2567.T', '2568.T', '2569.T', '2932.T', '2987.T', ' .T', '4000.T', '4011.T', '4012.T', '4058.T', '4059.T', '4060.T', '4930.T', '4933.T', '5000.T', '6600.T', '7337.T', '7338.T', '7339.T', '7354.T']
+
+홍콩: 99.57% (2769/2781)
+failed: ['1408.HK', '1455.HK', '1936.HK', '2906.HK', '2912.HK', '3348.HK', '8559.HK', '8592.HK', '9633.HK', '9987.HK', '3168.HK', '7001.HK']
+
+중국: 100% (2235/2235)
+failed: none
+
+미국 (전체): 99.68% (8772/8800)
+failed: ['AEHR.O', 'AFH.O', 'BEAM.O', 'CBO', 'CBSHP.O', 'CBX', 'CLEU.O', 'CTESTa', 'HUIZ.O', 'INBX.O', 'IPOB.K', 'IPOC.K', 'LMPX.O', 'LOGM.O', 'METFL', 'PYMFP', 'VEL', 'WIMI.O', 'ZBZX.K', 'ZGYHU.O', 'ZJZZT.O', 'ZN.O', 'ZTEST', 'ZVV', 'ZVZZT.O', 'ZWELX', 'ZWZZT.O', 'ZXZZT.O']

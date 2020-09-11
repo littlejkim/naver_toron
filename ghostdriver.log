@@ -1,0 +1,7 @@
+C:/Users/NHWM/Downloads/geckodriver: error: Found argument '--cookies-file' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
